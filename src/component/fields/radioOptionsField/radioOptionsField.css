@@ -1,0 +1,3 @@
+.radio-options input:disabled + label {
+  cursor: not-allowed;
+}

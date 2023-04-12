@@ -1,0 +1,12 @@
+.field-wrapper .required-point {
+  color: #d9534f;
+}
+
+.field-wrapper.invalid .border-alert {
+  border: 2px solid #d9534f;
+  border-radius: 5px;
+}
+
+.field-wrapper.invalid .error-msg {
+  color: #d9534f;
+}
