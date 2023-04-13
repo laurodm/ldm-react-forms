@@ -5,7 +5,6 @@ export { default as FieldControllerProvider } from "./fieldsController/fieldCont
 export * from "./fieldsController/fieldControllerProvider";
 export * from "./fields";
 export * from "./formComponent";
-export * from "./fields/fileFieldDinamic";
 export * from "./fields/selectField";
 export * from "./formComponentDataVerify";
 export * from "./listeners/listenerActions";

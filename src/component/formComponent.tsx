@@ -7,7 +7,7 @@ import FieldControllerProvider, {
 import "./formComponent.css";
 
 export type TFormComponentContext = {
-  data: { [key: string]: any };
+  data?: { [key: string]: any };
   fromData: boolean;
   fields: TField[];
   formRef: { current: HTMLFormElement };
